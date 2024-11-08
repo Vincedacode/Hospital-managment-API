@@ -1,0 +1,64 @@
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\GiveAPI.exe
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\GiveAPI.deps.json
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\GiveAPI.runtimeconfig.json
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\GiveAPI.dll
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\GiveAPI.pdb
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.AssemblyInfo.cs
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.GiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.GiveAPI.props
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GiveAPI.props
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GiveAPI.props
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\scopedcss\bundle\GiveAPI.styles.css
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.dll
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\refint\GiveAPI.dll
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.pdb
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.genruntimeconfig.cache
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\ref\GiveAPI.dll
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\GiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\GiveAPI\obj\Debug\net8.0\GiveAPI.csproj.Up2Date
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\GiveAPI.exe
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\GiveAPI.deps.json
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\GiveAPI.runtimeconfig.json
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\GiveAPI.dll
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\GiveAPI.pdb
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Documents\Hospital Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.AssemblyInfo.cs
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets\msbuild.GiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets\msbuild.build.GiveAPI.props
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GiveAPI.props
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GiveAPI.props
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\scopedcss\bundle\GiveAPI.styles.css
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.csproj.Up2Date
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.dll
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\refint\GiveAPI.dll
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.pdb
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\GiveAPI.genruntimeconfig.cache
+C:\Users\HP\Documents\Hospital Management\obj\Debug\net8.0\ref\GiveAPI.dll
